@@ -1,0 +1,10 @@
+
+
+		Instructions
+	Extract all the files into C:\wamp\www\ in the system.
+1. Form a Database named 'library' 
+2. Import All the backup database files in the database.
+3.open url in localhost : http://localhost/Library_Management_System/phpfiles/login.php  To start the project.
+
+	Now , user(here,in general Librarian or any staff) can firstly signup then the user got the system generated ID , through which user
+	can login into the application.

@@ -1,0 +1,30 @@
+			*{
+				font-family:"Garamond";
+			}
+			div.d1{
+				margin:0px 200px;
+				background-color:rgba(240,240,240,0.9);
+				height:26em;
+				padding:12px;
+			}
+			
+			h2{
+				margin-left:20px;
+			}
+			tr{
+				padding:15px;
+			}
+			td{
+				padding:9px;
+			}
+			.s{
+				height:30px;
+				width:80px;
+				padding:5px;
+				margin-left:15px;
+				float:right;
+				font-weight:bold;
+				cursor:pointer;
+				font-size:15px;
+			}
+				
